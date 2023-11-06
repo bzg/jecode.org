@@ -1,0 +1,42 @@
+From bzg  Tue Feb 19 16:35:39 2019
+From: bzg (Bastien Guerry)
+Date: Tue, 19 Feb 2019 17:35:39 +0100
+Subject: [jecode] =?utf-8?q?Fermeture_de_la_liste_discussion=40jecode=2Eor?=
+ =?utf-8?q?g_=C3=A0_la_fin_du_mois?=
+
+Il y a six ans, Martin, David et moi participions à des discussions
+sur une liste autour de l'apprentissage de la programmation.
+
+Nous nous sommes tous les trois étonnés de la réticence de certains à
+utiliser l'expression « coder », qui leur paraissait inappropriée, ou
+trop anglaise ou même péjorative.  Nous avons voulu revendiquer cette
+expression pour montrer au contraire ce qu'il y a de noble dans cette
+activité ; pour dire que « l'informatique », ce n'est pas soit de la
+théorie, soit une une activité servile, avec un penseur qui construit
+un algorithme pendant que l'ouvrier vient "juste" l'implémenter.
+
+Coder est une activité à la fois intellectuelle et manuelle, de celle
+dont Matthew Crawford a montré, dans l'Éloge du carburateur, qu'elles
+étaient indispensables au développement de l'individu.
+
+Nous avons collecté des témoignages : https://jecode.org/codeurs
+
+Puis créé cette liste de discussion.
+
+Puis tenté d'ouvrir un répertoire des initiatives existantes autour
+de l'apprentissage de la programmation.
+
+Cette liste a permis de riches échanges.  Un énorme merci à tous d'y
+avoir contribué !  Aujourd'hui la liste est inactive et les échanges
+se poursuivent sous d'autres formes ailleurs.
+
+Nous allons donc fermer cette liste à la fin du mois.
+
+Le site jecode.org restera actif, pour continuer de diffuser les
+témoignages et mettre à disposition la liste des initiatives.
+
+Happy hacking à tous !
+
+-- 
+ Bastien
+

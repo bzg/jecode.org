@@ -1,0 +1,12 @@
+
+   * [[logiciels_d_apprentissage_pour_les_4_ans|Logiciels d'apprentissage à partir de 4 ans]]
+   * [[logiciels_d_apprentissage_de_l_informatique|Logiciels d'apprentissage de l'informatique]]
+   * [[ateliers_initiation_a_la_programmation|Ateliers d'initiation à la programmation]]
+   * [[sites_initiation_a_la_programmation|Sites d'initiation à la programmation]]
+   * [[ateliers_retours_d_experiences|Retours d'expérience sur les ateliers]]
+   * [[conferences_sur_l_enseignement_de_l_informatique|Conférences sur l'enseignement de l'informatique]]
+   * [[litterature_grise_sur_l_enseignement_de_l_informatique|Littérature "grise" sur l'enseignement de l'informatique]]
+   * [[ressources_libres_que_l_on_pourrait_traduire|Ressources libres que l'on pourrait traduire]]
+   * [[table_ronde_du_12_avril_2014|Table ronde du 12 avril 2014]]
+   * [[newsletters:accueil|Lettres d'information mensuelles|Lettres d'information mensuelles]]
+   * [[codecambouis_accueil|Les réunions « Code Cambouis »]]

@@ -1,0 +1,5 @@
+   * [[http://www.revue-terminal.org/www/spip.php?article84 Revue Terminal, Sommaire du numéro 113-114]]
+   * [[http://www.ifets.info/journals/15_1/15.pdf| An Investigation into Parent-Child Collaboration in Learning Computer Programming, 2012]]
+   * [[http://edutice.archives-ouvertes.fr/docs/00/87/55/49/PDF/D5_Baron_Voulgre.pdf|Initier à la programmation des étudiants de master de sciences de l’éducation ?  Un compte rendu d’expérience]]
+   * [[http://sticef.univ-lemans.fr/num/vol2014/04-muratet-evajs/sticef_2014_NS_muratet_04p.pdf|Étude de l’intégration d’un jeu sérieux pour l’enseignement de la programmation dans différents contextes universitaires]]
+   * [[http://www.irit.fr/publis/VORTEX/Muratet_these.pdf|Conception, réalisation et évaluation d'un jeu sérieux de stratégie temps réel pour l'apprentissage des fondamentaux de la programmation]]. Thèse de doctorat, Université Paul Sabatier, décembre 2010.
