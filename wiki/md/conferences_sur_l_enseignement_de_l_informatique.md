@@ -1,2 +1,2 @@
-  * [[http:%%//%%iticse2014.it.uu.se|ITiCSE 2014]]
-  * [[http:%%//%%www.canal-u.tv/producteurs/inria|Conférences ISN et de culture scientifique Inria]]
+- [ITiCSE 2014](http://iticse2014.it.uu.se)
+- [Conférences ISN et de culture scientifique Inria](http://www.canal-u.tv/producteurs/inria)

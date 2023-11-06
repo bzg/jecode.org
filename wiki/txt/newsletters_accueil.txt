@@ -1,4 +1,4 @@
-  * [[Avril 2014]]
-  * [[Mai 2014]]
-  * [[Septembre 2014]]
-  * [[Octobre 2014]]
+- [Avril 2014](newsletters_avril_2014.md)
+- [Mai 2014](newsletters_mai_2014.md)
+- [Septembre 2014](newsletters_octobre_2014.md)
+- [Octobre 2014](newsletters_septembre_2014.md)

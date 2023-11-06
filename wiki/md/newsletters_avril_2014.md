@@ -1,95 +1,163 @@
-%%//%%Cette page sert de brouillon pour la première lettre d’information mensuelle de jecode.org.
+Cette page sert de brouillon pour la première lettre d'information
+mensuelle de jecode.org.
 
-Ajoutez-y des notes en vrac, nous les mettrons en forme avant de les envoyer. %%//%% ===== Bienvenue ! =====
+Ajoutez-y des notes en vrac, nous les mettrons en forme avant de les
+envoyer.
 
-Bienvenue dans la première lettre d’information de jecode.org !
+## Bienvenue !
 
-Cette lettre mensuelle sera envoyée tous les 15 du mois. Elle présente l’actualité des initiatives qui organisent partout en France des ateliers d’initiation à la programmation et des liens vers le sujet de l’enseignement de la programmation.
+Bienvenue dans la première lettre d'information de jecode.org !
 
-===== Les actualités de jecode.org =====
+Cette lettre mensuelle sera envoyée tous les 15 du mois. Elle présente
+l'actualité des initiatives qui organisent partout en France des
+ateliers d'initiation à la programmation et des liens vers le sujet de
+l'enseignement de la programmation.
 
-==== Débat du 12 avril 2014 à la Cité des Sciences ====
+## Les actualités de jecode.org
 
-Le 12 avril, l’association OLPC France organisait un SugarCamp : deux jours autour d’OLPC et de Sugar avec des volontaires de la communauté internationale. Grâce à la complicité des initiateurs des [[http:%%//%%codinggouter.org|coding goûters]] et du fondateur de [[http:%%//%%fr.vikidia.org/wiki/Accueil|Vikidia]], nous avons passé l’après-midi du samedi à initier quelques enfants [à faire quoi ? Faut allécher les lecteurs et leur donner envie de faire pareil ou mieux ;-)] et terminé avec un débat autour de l’enseignement de la programmation, avec en invité Jean-Pierre Archambault, membre de [[http:%%//%%www.epi.asso.fr/|l’association EPI]].
+### Débat du 12 avril 2014 à la Cité des Sciences
 
-Une interview des initiateurs des coding goûters : https:%%//%%vimeo.com/94766477
+Le 12 avril, l'association OLPC France organisait un SugarCamp : deux
+jours autour d'OLPC et de Sugar avec des volontaires de la communauté
+internationale. Grâce à la complicité des initiateurs des [coding
+goûters](http://codinggouter.org) et du fondateur de
+[Vikidia](http://fr.vikidia.org/wiki/Accueil), nous avons passé
+l'après-midi du samedi à initier quelques enfants \[à faire quoi ?
+Faut allécher les lecteurs et leur donner envie de faire pareil ou
+mieux ;-)\] et terminé avec un débat autour de l'enseignement de la
+programmation, avec en invité Jean-Pierre Archambault, membre de
+[l'association EPI](http://www.epi.asso.fr/).
 
-La vidéo complète du débat : http:%%//%%www.dailymotion.com/playlist/x3686o_olpcfrance_sugarcamp-paris-3/1#video=x1rvcwu
+Une interview des initiateurs des coding goûters :
+<https://vimeo.com/94766477>
 
-Le site des coding goûters : http:%%//%%codinggouter.org L’association OLPC France rassemble les développeurs de la plate-forme éducative libre Sugar http:%%//%%sugarlabs.org et la communauté internationale One Laptop Per Child http:%%//%%laptop.org ! Le site d’OLPC France : http:%%//%%olpc-france.org
+La vidéo complète du débat :
+<http://www.dailymotion.com/playlist/x3686o_olpcfrance_sugarcamp-paris-3/1#video=x1rvcwu>
 
-==== Réunion « Code Cambouis » du 28 avril 2014 ====
+Le site des coding goûters : <http://codinggouter.org> L'association
+OLPC France rassemble les développeurs de la plate-forme éducative
+libre Sugar <http://sugarlabs.org> et la communauté internationale One
+Laptop Per Child <http://laptop.org> ! Le site d'OLPC France :
+<http://olpc-france.org>
 
-Une première réunion « code cambouis » des participants de jecode.org s’est tenue le 28 avril 2014 dans les locaux du CRI, à l’initiative de Mikael Couzic – merci à lui et au CRI d’abord mis cela en place ! Les discussions furent riches et passionnées. Pour la prochaine réunion, les participants se concentreront sur des réalisations plutôt que des présentations, en accentuant le côté « Cambouis »… celle-ci se tiendra le 26 mai 2014 et nous serons accueillis dans les locaux de Mozilla !
+### Réunion « Code Cambouis » du 28 avril 2014
 
-Lien vers le storyfy du 28 avril : https:%%//%%storify.com/2vanssay/code-cambouis Liens vers les vidéos du 28 avril : https:%%//%%vimeo.com/album/2850716
+Une première réunion « code cambouis » des participants de jecode.org
+s'est tenue le 28 avril 2014 dans les locaux du CRI, à l'initiative de
+Mikael Couzic \-- merci à lui et au CRI d'abord mis cela en place !
+Les discussions furent riches et passionnées. Pour la prochaine
+réunion, les participants se concentreront sur des réalisations plutôt
+que des présentations, en accentuant le côté « Cambouis »\... celle-ci
+se tiendra le 26 mai 2014 et nous serons accueillis dans les locaux de
+Mozilla !
 
-==== Prochaine réunion le 26 mai à 19h00 chez Mozilla ====
+Lien vers le storyfy du 28 avril :
+<https://storify.com/2vanssay/code-cambouis> Liens vers les vidéos du
+28 avril : <https://vimeo.com/album/2850716>
 
-Sur webmaker.org : https:%%//%%events.webmaker.org/#!/events/3340
+### Prochaine réunion le 26 mai à 19h00 chez Mozilla
 
-Sur meetup.com : http:%%//%%www.meetup.com/Code-Cambouis/events/181214272/
+Sur webmaker.org : <https://events.webmaker.org/#!/events/3340>
+
+Sur meetup.com : <http://www.meetup.com/Code-Cambouis/events/181214272/>
 
 Rejoignez-nous !
 
-Nous essaierons dorénavant d’organiser ces réunions « Code Cambouis » tous les derniers lundis de chaque mois.
+Nous essaierons dorénavant d'organiser ces réunions « Code Cambouis »
+tous les derniers lundis de chaque mois.
 
-===== L’actualité des initiatives participantes =====
+## L'actualité des initiatives participantes
 
-Magic makers : un atelier découverte s’est tenu le 30 avril à NUMA. https:%%//%%www.numaparis.com/Evenements/Atelier-Decouverte-Magic-Makers
+Magic makers : un atelier découverte s'est tenu le 30 avril à NUMA.
+<https://www.numaparis.com/Evenements/Atelier-Decouverte-Magic-Makers>
 
-Tralalère : campagne réussie pour GleamCode : http:%%//%%www.kisskissbankbank.com/gleamcode-mon-jeu-pour-apprendre-a-coder
+Tralalère : campagne réussie pour GleamCode :
+<http://www.kisskissbankbank.com/gleamcode-mon-jeu-pour-apprendre-a-coder>
 
-France IOI : la première épreuve de présélection du concours Algoréa, organisé par l’association France IOI, s’est tenue les samedi 12 et dimanche 13 avril 2014.
+France IOI : la première épreuve de présélection du concours Algoréa,
+organisé par l'association France IOI, s'est tenue les samedi 12 et
+dimanche 13 avril 2014.
 
-http:%%//%%www.france-ioi.org http:%%//%%www.france-ioi.org/concours/algorea
+<http://www.france-ioi.org> <http://www.france-ioi.org/concours/algorea>
 
-==== Les événements à l’horizon ====
+### Les événements à l'horizon
 
-L’association FESC organise un coding goûter le 24 mai 2014 à la médiathèque de St Gratien : http:%%//%%forums.jecode.org/t/scratch-day-2014-en-france/9
+L'association FESC organise un coding goûter le 24 mai 2014 à la
+médiathèque de St Gratien :
+<http://forums.jecode.org/t/scratch-day-2014-en-france/9>
 
-==== Ils en parlent ====
+### Ils en parlent
 
-Présentation de jecode.org dans Thot Cursus : http:%%//%%cursus.edu/article/21981#.U3HsMlhviC0
+Présentation de jecode.org dans Thot Cursus :
+<http://cursus.edu/article/21981#.U3HsMlhviC0>
 
-Mention de jecode.org dans la l’édito de l’EPI de mai 2014 : http:%%//%%www.epi.asso.fr/revue/articles/a1405a.htm
+Mention de jecode.org dans la l'édito de l'EPI de mai 2014 :
+<http://www.epi.asso.fr/revue/articles/a1405a.htm>
 
-Voir aussi le retour de l’EPI sur la journée du 12 http:%%//%%www.epi.asso.fr/revue/lu/l1405p.htm
+Voir aussi le retour de l'EPI sur la journée du 12
+<http://www.epi.asso.fr/revue/lu/l1405p.htm>
 
-==== Le code dans la presse ====
+### Le code dans la presse
 
-Le code, un jeu d’enfants ? http:%%//%%www.lemouv.fr/diffusion-le-code-un-jeu-d-enfant
+Le code, un jeu d'enfants ?
+<http://www.lemouv.fr/diffusion-le-code-un-jeu-d-enfant>
 
-Enseigner la science informatique à l’école, débat à écouter sur France Culture avec David Roche, Claude Térosier et Gérard Berry:
+Enseigner la science informatique à l'école, débat à écouter sur France
+Culture avec David Roche, Claude Térosier et Gérard Berry:
 
-http:%%//%%www.franceculture.fr/emission-rue-des-ecoles-enseigner-la-science-informatique-a-l-ecole-2014-03-12
+<http://www.franceculture.fr/emission-rue-des-ecoles-enseigner-la-science-informatique-a-l-ecole-2014-03-12>
 
-Chronique France Info : “Lire, écrire, compter, coder” avec Martin Quison http:%%//%%www.franceinfo.fr/education-jeunesse/question-d-education/lire-ecrire-compter-coder-1370593-2014-04-01
+Chronique France Info : \"Lire, écrire, compter, coder\" avec Martin
+Quison
+<http://www.franceinfo.fr/education-jeunesse/question-d-education/lire-ecrire-compter-coder-1370593-2014-04-01>
 
-Article du Parisien : http:%%//%%preview.leparisien.fr/informations/et-si-on-apprenait-aux-enfants-a-coder-23-04-2014-3787263.php http:%%//%%preview.leparisien.fr/informations/comment-les-initier-23-04-2014-3787277.php http:%%//%%preview.leparisien.fr/informations/le-dimanche-c-est-coding-gouter-23-04-2014-3787275.php
+Article du Parisien :
+<http://preview.leparisien.fr/informations/et-si-on-apprenait-aux-enfants-a-coder-23-04-2014-3787263.php>
+<http://preview.leparisien.fr/informations/comment-les-initier-23-04-2014-3787277.php>
+<http://preview.leparisien.fr/informations/le-dimanche-c-est-coding-gouter-23-04-2014-3787275.php>
 
-Article de libération : http:%%//%%www.liberation.fr/economie/2014/03/24/je-code-donc-je-suis_989289
+Article de libération :
+<http://www.liberation.fr/economie/2014/03/24/je-code-donc-je-suis_989289>
 
-Enseigner le code à l’école, vraiment ? http:%%//%%www.internetactu.net/2014/04/23/enseigner-le-code-a-lecole-vraiment/
+Enseigner le code à l'école, vraiment ?
+<http://www.internetactu.net/2014/04/23/enseigner-le-code-a-lecole-vraiment/>
 
-Passage de Claude Térosier de Magic Makers dans La Nouvelle Édition de Canal+ : http:%%//%%www.canalplus.fr/c-infos-documentaires/c-la-nouvelle-edition/pid6851-les-extraits.html?vid=1058696
+Passage de Claude Térosier de Magic Makers dans La Nouvelle Édition de
+Canal+ :
+<http://www.canalplus.fr/c-infos-documentaires/c-la-nouvelle-edition/pid6851-les-extraits.html?vid=1058696>
 
-Interview de Sylvie Tissot dans le 56Kast de Libération : http:%%//%%ecrans.liberation.fr/ecrans/2014/05/09/le-56kast-24-l-education-au-code-sur-les-terres-de-westeros_1013733
+Interview de Sylvie Tissot dans le 56Kast de Libération :
+<http://ecrans.liberation.fr/ecrans/2014/05/09/le-56kast-24-l-education-au-code-sur-les-terres-de-westeros_1013733>
 
-==== Autre ====
+### Autre
 
-Le Conseil National du Numérique a publié son rapport d’activité : http:%%//%%www.cnnumerique.fr/wp-content/uploads/2014/05/2014-05-09_CNNum_Bilan-dactivit%C3%A9.pdf
+Le Conseil National du Numérique a publié son rapport d'activité :
+<http://www.cnnumerique.fr/wp-content/uploads/2014/05/2014-05-09_CNNum_Bilan-dactivit%C3%A9.pdf>
 
 Le rapport revient brièvement sur les travaux du groupe « éducation ».
 
-Le Conseil Supérieur des Programmes a remis le 7 mai dernier une nouvelle version du « Socle commun de connaissances, de compétences et de culture ».
+Le Conseil Supérieur des Programmes a remis le 7 mai dernier une
+nouvelle version du « Socle commun de connaissances, de compétences et
+de culture ».
 
-http:%%//%%www.lemonde.fr/societe/article/2014/05/12/que-doivent-savoir-tous-les-eleves-le-nouveau-defi-de-benoit-hamon_4415058_3224.html
+<http://www.lemonde.fr/societe/article/2014/05/12/que-doivent-savoir-tous-les-eleves-le-nouveau-defi-de-benoit-hamon_4415058_3224.html>
 
-Sur l’informatique, on y lit ceci :
+Sur l'informatique, on y lit ceci :
 
-« La plupart des élèves acquièrent un usage empirique des outils contemporains de l’information et de la communication. L’école doit leur permettre un usage informé et critique de l’informatique, du multimédia et de l’Internet (cf. domaine 2). Elle doit aussi les initier à son fonctionnement, à ses règles et à son langage.
+    « La plupart des élèves acquièrent un usage empirique des outils
+    contemporains de l'information et de la communication. L'école doit
+    leur permettre un usage informé et critique de l'informatique, du
+    multimédia et de l'Internet (cf. domaine 2). Elle doit aussi les
+    initier à son fonctionnement, à ses règles et à son langage.
 
-Les élèves doivent savoir que les équipements informatiques utilisent une information codée ; ils doivent être initiés aux principes des langages de programmation et doivent pouvoir réaliser eux- mêmes des petites applications utilisant des algorithmes simples. Ils savent créer, produire, traiter, exploiter des données.
+    Les élèves doivent savoir que les équipements informatiques
+    utilisent une information codée ; ils doivent être initiés aux
+    principes des langages de programmation et doivent pouvoir réaliser
+    eux- mêmes des petites applications utilisant des algorithmes
+    simples. Ils savent créer, produire, traiter, exploiter des données.
 
-Ils sont initiés aux composants du matériel (logiciels et services courants), à la structuration et l’usage d’un environnement numérique de travail. Ils doivent également connaître le fonctionnement des réseaux, leur rôle dans la vie sociale et économique, les règles qui les régissent. »
+    Ils sont initiés aux composants du matériel (logiciels et services
+    courants), à la structuration et l'usage d'un environnement
+    numérique de travail.  Ils doivent également connaître le
+    fonctionnement des réseaux, leur rôle dans la vie sociale et
+    économique, les règles qui les régissent. »
