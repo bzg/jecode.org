@@ -1,6 +1,6 @@
 # jecode.org
 
-![Logo de jecode.org](jecode.png)
+![Logo de jecode.org](images/logo-jecode.png)
 
 Ce dépôt contient les archives de l'initiative jecode.org, lancée en
 2013 et archivée en 2019.
@@ -10,10 +10,12 @@ Ce dépôt contient les archives de l'initiative jecode.org, lancée en
 - `news` : Les archives du site de partage de liens.
 - `personnes` : Les archives des pages du site de présentation.
 
+![Ordinateur au design jecode.org](images/logo-jecode-ordinateur.png)
+
 # Licence
 
 Les textes des archives de la liste de discussion appartiennent à
 leurs auteurs et ne sont pas couverts par la licence du présent.
 
-Les autres contenus sont publiés sous licence Creative Commons CC0.
-
+Les autres contenus sont publiés sous [licence Creative Commons
+CC0](LICENSE).
