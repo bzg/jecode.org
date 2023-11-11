@@ -10,8 +10,6 @@ Ce dépôt contient les archives de l'initiative jecode.org, lancée en
 - `news` : Les archives du site de partage de liens.
 - `personnes` : Les archives des pages du site de présentation.
 
-![Ordinateur au design jecode.org](images/logo-jecode-ordinateur.png)
-
 # Licence
 
 Les textes des archives de la liste de discussion appartiennent à
