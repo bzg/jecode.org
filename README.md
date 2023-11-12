@@ -12,8 +12,7 @@ Ce dépôt contient les archives de l'initiative jecode.org, lancée en
 
 # Licence
 
-Les textes des archives de la liste de discussion appartiennent à
-leurs auteurs et ne sont pas couverts par la licence du présent.
-
-Les autres contenus sont publiés sous [licence Creative Commons
-CC0](LICENSE).
+Les contenus de ce dépôt sont publiés sous [licence Creative Commons
+CC0](LICENSE), à l'exception des textes des archives de la liste de
+discussion qui appartiennent à leurs auteurs et ne peuvent donc être
+réutilisés sans leur consentement.
